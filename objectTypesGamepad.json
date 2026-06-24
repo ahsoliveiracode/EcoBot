@@ -1,0 +1,14 @@
+{
+	"name": "Gamepad",
+	"plugin-id": "gamepad",
+	"sid": 922994134668440,
+	"singleglobal-inst": {
+		"type": "Gamepad",
+		"properties": {
+			"analog-deadzone": 25
+		},
+		"uid": 30,
+		"sid": 791495154507043,
+		"tags": ""
+	}
+}
